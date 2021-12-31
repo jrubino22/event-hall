@@ -1,10 +1,13 @@
 .navbar{ 
-    background:#F97300;
+    background-image: linear-gradient(to right, silver, gold);
+    
 }
 
 .nav-link , .navbar-brand{ 
-    color: #f4f4f4; 
+    color: black; 
     cursor: pointer;
+    font-size: 25px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
 }
 
 .nav-link{ 
@@ -12,8 +15,8 @@
 }
 
 .nav-link:hover{ 
-    background: #f4f4f4; 
-    color: #f97300; 
+    background: black; 
+    color: gold; 
 }
 
 .navbar-collapse{ 
@@ -32,11 +35,10 @@
  }
 
  .centered {
-
-     position: absolute;
-     top: 45%;
-     left: 50%;
-     transform: translate(-50%, -50%);
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
      
  }
 
@@ -100,7 +102,7 @@
 
    .about .desc{
     padding: 2em;
-    border-right:4px solid #10828C;
+    border-right:4px solid gold;
    }
 
    .about .desc h3{
