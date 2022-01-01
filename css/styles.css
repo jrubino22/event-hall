@@ -82,34 +82,23 @@
     position: relative;
    }
    
-   .about h1{
-    color:#F97300;
-    margin: 2em;
-   }
-
    .about img{
     height: 100%;
        width: 100%;
-       border-radius: 50%
+       border-radius: 10%
    }
 
-   .about span{
-    display: block;
-    color: #888;
-    position: absolute;
-    left: 115px;
-   }
-
-   .about .desc{
+   .about .descPic{
     padding: 2em;
-    border-right:4px solid gold;
+    border-left:4px solid gold;
    }
 
    .about .desc h3{
-    color: #10828C;
+    color: #7437e6;
    }
 
    .about .desc p{
-    line-height:2;
+    line-height:3;
     color:#888;
+
    }
