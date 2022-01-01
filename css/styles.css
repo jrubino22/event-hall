@@ -54,7 +54,7 @@
  .header-text {
     padding: 20px 50px;
     color: black;
-    
+    left: 50%;
     font-size: 2.5em;
     font-family: Brush Script MT, Brush Script Std, cursive;
     border-radius: 25px
@@ -85,7 +85,7 @@
    .about img{
     height: 100%;
        width: 100%;
-       border-radius: 10%
+       border-radius: 60%
    }
 
    .about .descPic{
@@ -98,7 +98,29 @@
    }
 
    .about .desc p{
-    line-height:3;
-    color:#888;
+    line-height:2;
+    
 
    }
+
+.card h3 {
+    text-align: center;
+}
+
+.card .card-header {
+    background-color: #7437e6;
+    color: white;
+}
+
+.btn-purple {
+    background-color: #7437e6;
+    color: white;
+}
+
+.card-button{
+    text-align: center;
+}
+
+.site-footer {
+    background-image: linear-gradient(silver, gold);
+    padding: 20px 0; }
