@@ -1,3 +1,7 @@
+body { 
+    padding-top: 65px; 
+}
+
 .navbar{ 
     background-image: linear-gradient(to right, silver, gold);
     
