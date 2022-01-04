@@ -1,5 +1,5 @@
 body { 
-    padding-top: 65px; 
+    padding-top: 150px; 
 }
 
 .navbar{ 
@@ -128,3 +128,7 @@ body {
 .site-footer {
     background-image: linear-gradient(silver, gold);
     padding: 20px 0; }
+
+.gallery-text {
+    text-align: center;
+}
