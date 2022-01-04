@@ -4,10 +4,12 @@
   "description": "This is Joseph Rubino's portfolio site",
   "main": "index.html",
   "dependencies": {
+    "3": "^2.1.0",
+    "-": "0.0.1",
     "bootstrap": "^4.5.2",
     "bootstrap-social": "^5.1.1",
     "font-awesome": "^4.7.0",
-    "jquery": "^3.6.0",
+    "jquery": "^1.9.1",
     "popper.js": "^1.16.1"
   },
   "devDependencies": {
@@ -18,7 +20,6 @@
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-
   "author": "Joseph Rubino",
   "license": "ISC"
 }
