@@ -1,3 +1,3 @@
 $(function(){
-    $('.header').height($(window).height()*.8);
+    $('.header').height($(window).height()*.7);
  })

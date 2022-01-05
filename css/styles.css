@@ -1,5 +1,5 @@
-body { 
-    padding-top: 150px; 
+body {  
+    background-color: rgb(238, 223, 181);
 }
 
 .navbar{ 
@@ -133,3 +133,6 @@ body {
     text-align: center;
 }
 
+.page-heading-text {
+    color:#7437e6
+}
